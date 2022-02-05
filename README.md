@@ -1,4 +1,4 @@
-### `LIVE WEBSITE`(https://tinder-clone-edcc3.web.app/)
+### [`LIVE WEBSITE`](https://tinder-clone-edcc3.web.app/)
 
 # Getting Started with Create React App
 
